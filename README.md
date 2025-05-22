@@ -70,17 +70,7 @@
 
 ---
 
-<!-- 깃허브 통계 -->
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauu00&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauu00&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<!-- 끝인사 -->
+<!-- 마무리 -->
 <div align="center">
   <p>협업과 소통을 통해 함께 성장하는 개발자가 되겠습니다. 🌱</p>
 </div>
