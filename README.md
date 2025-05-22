@@ -1,9 +1,9 @@
 <!-- 인사말 영역 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Yujeong!&fontSize=35&fontAlignY=40&desc=Frontend%20Developer&descAlignY=65&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=gradient&text=안녕하세요%20😀&reversal=false&textBg=false&fontAlign=50&fontAlignY=47&desc=FE%20개발자%20마유정입니다.&fontSize=50&descAlignY=65" />
 
   <h3>프론트엔드 개발자 마유정입니다 👩‍💻</h3>
-  <p>UI/UX에 진심인, 기술과 감성을 모두 담는 개발자</p>
+  <p>UI/UX에 진심인, 기술과 감성을 모두 담는 개발자입니다.</p>
 </div>
 
 ---
@@ -65,7 +65,7 @@
 ### 📬 Contact
 <p>
   <a href="mailto:mauuovo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://maux-x.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://maux-x.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5544?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
 ---
